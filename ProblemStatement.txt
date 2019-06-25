@@ -1,0 +1,24 @@
+Problem Defination:
+	One company has to provide its services to all over the world.
+	What are the requirements?
+	How many offices company have all over the world?
+	How they will connect with customers using public website?
+	
+
+Functional Requirement:
+	1.login for customers
+	2.navigate through website
+	3.purchasing
+	4.customer review
+	5.employee review
+	6.ratings
+	7.checkout
+
+
+Non-Functional requirements:
+	1.Security
+	2.speed of web service
+	3.Accessibility
+	4.Extensiblity
+	5.Speed of data retrival
+	6.
